@@ -12,6 +12,6 @@ File: api-php-example/PublisherAPIExample.php
 
 Usage:
 
-> * Get Publisher ID and API key on Jobs2Careers dashboard
-> * Replace [YOUR_ID] & [YOUR_API_KEY] to the value you get.
-> * In your HTML, place <?php echo $job_content; ?>
+> * Get Publisher ID and API key on Jobs2Careers dashboard;
+> * Replace [YOUR_ID] & [YOUR_API_KEY] to the value you get;
+> * In your HTML, place ```<?php echo $job_content; ?>``` to where you want the jobs to show.
